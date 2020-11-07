@@ -8,11 +8,13 @@ This Web App can simulate particles, projectiles, gravity, spring forces. Create
 
 
 <p float="left">
-  <img src="./readme_imgs/particle_fountain.gif" height=200 width=250 title="particle_fountain.js" style="border:2px solid #e4e9f2">
-  <img src="./readme_imgs/ship_thrust.gif" height=200 width=250 title="ship_thrust_friction.js" style="border:2px solid #e4e9f2">
-  <img src="./readme_imgs/sun_planet.gif" height=200 width=250 title="sun_planet_gravity.js" style="border:2px solid #e4e9f2">
-  <img src="./readme_imgs/single_spring.gif" height=200 width=250 title="single_spring.js" style="border:2px solid #e4e9f2">
-  <img src="./readme_imgs/spring_constrained.gif" height=200 width=250 title="spring_constrained.js" style="border:2px solid #e4e9f2">
+  <kbd><img src="./readme_imgs/particle_fountain.gif" height=200 width=250 title="particle_fountain.js"/></kbd>
+  <kbd><img src="./readme_imgs/ship_thrust.gif" height=200 width=250 title="ship_thrust_friction.js"></kbd>
+  <kbd><img src="./readme_imgs/lissajou1.gif" height=200 width=250 title="lisajou_curves.js"></kbd>
+  <kbd><img src="./readme_imgs/sun_planet.gif" height=200 width=250 title="sun_planet_gravity.js" style="border:2px solid #e4e9f2"></kbd>
+  <kbd><img src="./readme_imgs/lissajou2.gif" height=200 width=250 title="lisajou_curves.js"></kbd>
+  <kbd><img src="./readme_imgs/single_spring.gif" height=200 width=250 title="single_spring.js"></kbd>
+  <kbd><img src="./readme_imgs/spring_constrained.gif" height=200 width=250 title="spring_constrained.js"></kbd>
 </p>
 
 
@@ -22,8 +24,8 @@ This Web App can simulate particles, projectiles, gravity, spring forces. Create
 
 simulating wind effect with help of repulsion and spring breaking when tension exceeded
 <p float="left">
-  <img src="./readme_imgs/spring_wind.gif" height=270 title="springMesh.js" style="border:2px solid #e4e9f2">
-  <img src="./readme_imgs/spring_break.gif" height=270 width=376 title="springBreakMesh.js" style="border:2px solid #e4e9f2">
+  <kbd><img src="./readme_imgs/spring_wind.gif" height=270 title="springMesh.js" style="border:2px solid #e4e9f2"></kbd>
+  <kbd><img class="border-blue" src="./readme_imgs/spring_break.gif" height=270 width=376 title="springBreakMesh.js" style="border:2px solid #e4e9f2"></kbd>
 </p>
 
 <br>
